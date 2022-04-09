@@ -4,7 +4,8 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 ---
 
 **Description:**<br />
-> * Create/edit/delete personal list of items you want to delete from inventory
+> * The player can create a personal list of items and delete those items in his inventory that are in the list
+The player can create a personal list of items and delete those items in his inventory that are in the list
 
 ---
 
@@ -34,7 +35,7 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 
 | Command | Permission | Descripton | config |
 | --- | ------|-----| -------|
-|garbage| reyd.garbage |ferfe|Support|
+|garbage| reyd.garbage |Create/edit/delete personal list of items you want to delete from inventory|Support|
 
 ---
 
