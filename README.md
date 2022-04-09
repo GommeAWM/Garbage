@@ -20,7 +20,7 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 **Installation:**<br />
 :black_square_button: Place plugin's .jar file into `plugins` folder on your server;<br />
 :black_square_button: `Configure` in Config;<br />
-:black_square_button: Launch the server;<br />
+:black_square_button: `Launch` the server;<br />
 
 ---
 
