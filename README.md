@@ -5,7 +5,6 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 
 **Description:**<br />
 > * The player can create a personal list of items and delete those items in his inventory that are in the list
-The player can create a personal list of items and delete those items in his inventory that are in the list
 
 ---
 
