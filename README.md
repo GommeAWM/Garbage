@@ -31,7 +31,6 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 ---
 
 **all Information**
-
 | Command | Permission | Descripton | config |
 | --- | ------|-----| -------|
 |garbage| reyd.garbage |The player can create a personal list of items and delete those items in his inventory that are in the list|Support|
