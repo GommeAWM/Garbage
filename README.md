@@ -4,16 +4,15 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 ---
 
 **Description:**<br />
-> * Create/edit/delete personal list of items you want to delete from inventory
+
+> * BowTeleport is a simple teleportation Nukkit plugin. It allows you to teleport to the place your arrow/snowball landed.
 
 ---
 
 ***Features:***<br />
-:star: Your `personal list` with Items;<br />
-:star: Support for items with `meta`;<br />
-:star: Command `/gid` for get id with meta;<br />
-:star: `UI`;<br />
-:star: Personal list is `stored` in config;<br />
+:star: You can enable or disable teleportation with the `/bowtp` command;<br />
+:star: `Config`;<br />
+:star: You can enable or disable teleportation with `snowball` or `arrow`;<br />
 
 ---
 
@@ -25,30 +24,14 @@ Garbage | Minecraft Bedrock Edition | Nukkit | API 1.0.13
 ---
 
 **Usage:**<br />
-:unlock: To open Garbage main menu type `/garbage help` into the chat;<br />
-:unlock: To get id:meta type `/gid` into the chat;<br />
+:unlock: To enable teleportation type `/bowtp` into the chat;<br />
 
 ---
 
 **all Information**
 | Command | Permission | Descripton | config |
 | --- | ------|-----| -------|
-|garbage| reyd.garbage |The player can create a personal list of items and delete those items in his inventory that are in the list|Support|
-
----
-
-**Examples**
-
-![Screenshot_313](https://user-images.githubusercontent.com/86683320/162589563-153faf5c-6d0a-419b-ae74-f11650ba9e42.png)
-
-
----
-
-![Screenshot_314](https://user-images.githubusercontent.com/86683320/162589560-830c595c-3032-48f6-acc4-7a565bb49d72.png)
-
----
-
-![Screenshot_315](https://user-images.githubusercontent.com/86683320/162589562-dfa9aff8-aac5-4feb-aec0-0689291c4876.png)
+|bowtp| reyd.bow |It allows you to teleport to the place your arrow/snowball landed|Support|
 
 ---
 
